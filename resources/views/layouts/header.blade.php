@@ -49,7 +49,6 @@
         </div>
     </div>
 </div>
-
 <!-- ***** Header Area Start ***** -->
 <header class="header-area header-sticky">
     <div class="container">
