@@ -57,8 +57,12 @@
             <div class="col-12">
                 <nav class="main-nav">
                     <!-- ***** Logo Start ***** -->
+
+
+
                     <a href="index.html" class="logo">
                         <img src="images/rcf.png" alt="rcf" style="width:70px;height:60px;">
+
                         RCF ILA-orangun
                     </a>
                     <!-- ***** Logo End ***** -->
